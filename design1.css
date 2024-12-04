@@ -1,0 +1,36 @@
+body{
+   
+  background-size: cover;
+  background-repeat: no-repeat;
+    background-image:url("https://th.bing.com/th/id/OIP.zqKZyrPJcCtSGS4EZABeUgAAAA?rs=1&pid=ImgDetMain");
+    height: 100vh;
+
+    }
+    .h1{
+        text-align: center;
+        font-weight: bolder;
+        color:rgb(63, 4, 53);
+    }
+    .paragraph{
+        color:black;
+        text-align: center;
+        font-weight: bolder;
+
+    }
+    .h2{
+        text-align: center;
+        color: rgb(66, 13, 69);
+    }
+    .button{
+        background-color: rgb(12, 11, 11);
+        color: aqua;
+        border-radius: 15px;
+        font-weight: bold;
+        display: block;
+        margin: auto;
+        cursor:pointer;
+        height:35px;
+        width: 150px;
+        
+    }
+    

@@ -1,0 +1,39 @@
+.body{
+    background-color: aqua;
+    background-size: cover;
+}
+.h1{
+    color: rgb(211, 19, 19);
+    padding: 30px;
+    text-align:center ;
+}
+.h2{
+    text-align: center;
+    font-weight: bold;
+    color: dimgray;
+}
+.starting{
+    height:32vh;
+    background-color:whitesmoke;
+    border-radius:20px;
+    margin: 20px;
+    padding: 20px;
+    
+    
+}
+.middle{
+    color: rgb(0, 72, 1);
+
+}
+.image1{
+    height:130px;
+    width:auto;
+    border-radius: 8px;
+
+    
+}
+.button{
+    background-color: black;
+    color: aqua;
+    border-radius:10px;
+}

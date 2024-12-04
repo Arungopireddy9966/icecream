@@ -1,0 +1,25 @@
+.body{
+    background-color: aquamarine;
+    background-size: cover;
+
+    
+.starting{
+    color:black;
+    text-align: center;
+    font-size:20px;
+    font-weight: bold;
+    padding-block-end: 100px;
+}
+.image{
+    border-radius: 100px;
+    padding: 50px;
+    padding-left: 500px;
+   
+}
+.button{
+    background-color: black;
+    color: aqua;
+    border-radius: 30px;
+
+
+}
