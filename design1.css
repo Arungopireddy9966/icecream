@@ -34,13 +34,13 @@ body{
     .button{
         background-color: rgb(12, 11, 11);
         color: rgb(232, 236, 236);
-        border-radius: 8px;
+        border-radius: 9px;
         font-weight: bold;
         display: block;
         margin: auto;
         cursor:pointer;
         height:40px;
-        width: 150px;
+        width: 200px;
         
     }
     
